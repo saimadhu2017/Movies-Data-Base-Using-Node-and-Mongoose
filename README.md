@@ -56,3 +56,26 @@ The below is for Inserting and getting record from table
 The below is for getting record for give hero name from table
 
 ![image](https://user-images.githubusercontent.com/34480223/140013584-a2c566a9-565e-4f7c-b409-766866400080.png)
+
+
+# To see the Database and movies table created in mongodb or not we have to open mongodb shell
+
+Step 1: show dbs;
+
+![image](https://user-images.githubusercontent.com/34480223/140014387-fccf6254-f2f8-403c-bc91-3014dcac0102.png)
+
+in above you can see that there is a database created name called moviesDB
+
+Step 2: use moviesDB
+
+the above command will shift to moviesDB or use it, so that we can see the tables in it.
+
+![image](https://user-images.githubusercontent.com/34480223/140014478-df7b6fd1-9257-4a05-a9f8-bafda0a3b4b9.png)
+
+so you can see there is a table called movies note: in mongodb we call tables as collections and rows as records.
+
+Step 3: db.movies.find({})
+
+This command is similar to sql select statement which will retrives all rows or records in the movies table
+
+![image](https://user-images.githubusercontent.com/34480223/140014591-e02ff9c7-d165-43ea-9cd2-f07836b46846.png)
