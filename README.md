@@ -4,7 +4,7 @@ Before executing the below commands prerequisites Software to be installed are n
 
 After downloaded the source code execute the following commands and Note: Before you execute make sure mongoDB is up and running otherwise it will take some time to show output as Data base not connected
 
-The below commands are to be eecuted in terminal or cmd in windows
+The below commands are to be executed in terminal or cmd in windows
 
 Step 1: npm install
 
