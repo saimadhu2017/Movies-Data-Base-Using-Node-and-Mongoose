@@ -17,3 +17,7 @@ Thats it after executing above Step1 and Step 2 commands you can see the output 
 ![image](https://user-images.githubusercontent.com/34480223/140012404-eec1a282-e8dd-4d8f-9189-2afd24016e87.png)
 
 
+# How to Insert new Movie data in table
+
+![image](https://user-images.githubusercontent.com/34480223/140012608-01fd2505-aa76-4053-99c8-234adaae9947.png)
+
