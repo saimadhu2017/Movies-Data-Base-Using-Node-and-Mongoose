@@ -1,0 +1,15 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Store Movie detailes in DB and perform CRUD operations",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.14"
+  }
+}
