@@ -17,7 +17,42 @@ Thats it after executing above Step1 and Step 2 commands you can see the output 
 ![image](https://user-images.githubusercontent.com/34480223/140012404-eec1a282-e8dd-4d8f-9189-2afd24016e87.png)
 
 
-# How to Insert new Movie data in table
+# How to Insert new Movie data in table for that open app.JS file
 
 ![image](https://user-images.githubusercontent.com/34480223/140012608-01fd2505-aa76-4053-99c8-234adaae9947.png)
 
+In above Pic I have mentioned the numbers for each number the below is the explanation and you can also refer to the code file also as I have mentioned the comments there also.
+
+1 - give name of the movie
+
+2 - give hero name
+
+3 - give heroine name
+
+4 - give year released number
+
+5 - give director name
+
+7 - it is just a function which will give output of list of rows or records in the movie table
+
+6 - give hero name 
+
+Note: In app.js file from Line number 23 onwards I have written CRUD operations to get all movies, insert a movie and gets movies based on a hero name given.
+
+# Data Base Connection in app.js
+
+![image](https://user-images.githubusercontent.com/34480223/140013264-52551209-5468-48ad-af3b-e5e69aa04045.png)
+
+# Created the table Schema in model/movies.js and exported in app.js to USE it to perform CRUD operations
+
+![image](https://user-images.githubusercontent.com/34480223/140013388-4acdc56c-0c5e-4336-9a9e-1c0bcca03a31.png)
+
+![image](https://user-images.githubusercontent.com/34480223/140013454-bfbae265-5aa4-4328-9aec-118250fafca8.png)
+
+The below is for Inserting and getting record from table
+
+![image](https://user-images.githubusercontent.com/34480223/140013521-3b2c0c09-a51d-40d7-be5f-edc83eda6ab5.png)
+
+The below is for getting record for give hero name from table
+
+![image](https://user-images.githubusercontent.com/34480223/140013584-a2c566a9-565e-4f7c-b409-766866400080.png)
